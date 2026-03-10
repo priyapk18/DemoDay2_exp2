@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+header img {
+    width: 10px;
+    height: auto;
+    max-width: 10px;
+}
